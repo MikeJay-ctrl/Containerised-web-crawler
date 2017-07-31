@@ -1,0 +1,4 @@
+mock>=2.0.0
+requests>=2.12.4
+beautifulsoup4>=4.5.3
+unittest-xml-reporting>=2.1.0

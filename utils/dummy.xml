@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <url>
+    <loc>http://exampleimaginarysite.org/imaginaryloc1</loc>
+    <content:hash>0ea692529d6b3642cff358eb77781998</content:hash>
+    <lastmod>2017-01-06</lastmod>
+  </url>
+  <url>
+    <loc>http://exampleimaginarysite.org/imaginaryloc2</loc>
+    <content:hash>89596f265172f57ceb90e8d864fd21a0</content:hash>
+    <lastmod>2017-01-06</lastmod>"
+  </url>
+</xml>
